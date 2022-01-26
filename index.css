@@ -2,20 +2,39 @@ header
 {
     background-color: red;
     text-align: center;
+    border: black;
+    border-style: dotted;
 }
 
 
 body
 {
     background-color: royalblue;
+    border: greenyellow;
+    border-style: groove;
 }
 h2
 {
     color: silver;
+    text-align: center;
 }
-p{
+p
+{
     color: tan;
+    text-align: center;
+    font-size: medium;
 }
-ul{
+ul
+{
     color: wheat;
+    text-align: center;
+    list-style: none;
+}
+img
+{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
