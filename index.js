@@ -1,5 +1,5 @@
 let person = prompt("What is your Name?");
-alert("Hello" + person + "Welcome to Bishal's Page");
+alert("Hello" + person + "Welcome to Bishal's Page,'' Please click OK");
 let hob = prompt("What is Bishal's Hobby");
 if(hob == 'Travel')
 {
