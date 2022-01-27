@@ -1,11 +1,14 @@
 let person = prompt("What is your Name?");
 alert("Hello" + ' ' + person + ' ' + "Welcome to Bishal's Page, Please click OK");
+
 let hob = prompt("What is Bishal's Hobby");
-if(hob == 'Travel')
+
+
+    if(hob == 'travel')
 {
     prompt("You Are Correct!")
 }
-     else if(hob =='Music')
+     else if(hob=='music')
     {
         prompt("You are correct!")
     }
